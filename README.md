@@ -9,10 +9,10 @@ Currently, two official plugins are available:
 
 
 Features:
-1.Display random images when user visits web-app.
-2.User can search for different images by entering query in search box.
-3.Author name and Description can be seen by hovering over image.
-4.User can click on image, it will be redirected to source of image.
+1. Display random images when user visits the web-app.
+2. User can search for different images by entering a query in the search box.
+3. The author name and Description can be seen by hovering over the image.
+4. User can click on an image, and it will be redirected to the source of image.
 
 Approach:
 1. Set Up Your Development Environment:
